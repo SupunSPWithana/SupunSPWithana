@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SupunSPWithana Supun WIthana, Software Engineer
-- 👀 I’m interested in Web Application development in full-stack domain...
+- 👀 I’m interested in Web Application development in full-stack domain
 - 🌱 I’m currently learning Nest.js & Docker
 - 💞️ I’m looking to collaborate on anything
 - 📫 Reach me via supunisback@gmail.com
