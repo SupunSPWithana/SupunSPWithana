@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on anything
 --->
 
-**Page Views**(since 1st July 2023): ![Visitor Count](https://profile-counter.glitch.me/SupunSPWithana/count.svg)
+Views since 1st July 2023 : ![Visitor Count](https://profile-counter.glitch.me/SupunSPWithana/count.svg)
