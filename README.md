@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 - [LinkedIn]([https://www.linkedin.com/in/tapasadhikary/](https://www.linkedin.com/in/supun-withana/)https://www.linkedin.com/in/supun-withana/) 💼
 <!-- YOU-CAN-FIND-ME:END -->
 
-**Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
+**Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/SupunSPWithana/count.svg)
